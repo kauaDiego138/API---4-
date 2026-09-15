@@ -1,8 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -13,9 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+O projeto consiste no desenvolvimento de um dashboard para o controle, análise e acompanhamento dos estoques de materiais da CPTM. Ele serve para transformar dados operacionais em indicadores visuais e alertas em tempo real, auxiliando os gestores a identificar excessos ou faltas de peças de manutenção, otimizar o capital investido e garantir a disponibilidade de suprimentos para o sistema com mais eficiência.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -28,22 +24,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo principal vctransformar um grande volume de dados de estoque em informação gerencial e estratégica, desenvolvendo um painel interativo (dashboard em Power BI) que permita acompanhar detalhadamente e em tempo real a evolução física e financeira dos estoques da empresa cliente CPTM.
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
 * Python (Colab)
-* Mysql
 
 
 
