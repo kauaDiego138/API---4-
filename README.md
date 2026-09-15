@@ -54,7 +54,7 @@ Este projeto tem como objetivo principal vctransformar um grande volume de dados
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 02/10/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 30/10/2026| a começar  | [MVP](MVP/sp2.md)  |
+| 03                |  27/11/2026| a começar  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a começar  | [MVP](#)  |
