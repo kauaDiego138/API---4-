@@ -1,11 +1,7 @@
-#  MVP - [Nome do Projeto]
+#  MVP - LOGITRAIL
 
 ##  Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+ Nesse mvp contera informações da primeira sprint do trabalho de desenvolvimento do dashboard do projeto de parceria da Fatec com a organização CPTM. Que seria a criação de um sistema para administrar e ajuda na tomada de decisões da equipe da CPTM em questões como financeiro e do controle de materias. Nessa primeira sprint sera entregue um protótipo de como a equipe LOGITRAIL pretende entregar ao final da parceria.
 ---
 
 ##  Descrição da Solução
@@ -17,24 +13,26 @@
 ---
 
 ##  Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Analista de dados:** breve descrição, necessidades e dores atendidas  
+- **Cliente:** breve descrição, necessidades e dores atendidas  
 
 ---
 
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| US1 | Como Analista de dados: Quero acessar a base de dados da CPTM e obter uma análise de todos os registros referentes aos materias da organização      | Alta       | 5 pontos   |
+| US2 | Como Analista de dados: Quero visualizar os registros da CPTM tratados no Python/Google collab para enteder sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências.         | Altaa      | 3 pontos   |
+| US3 | Como Analista de dados: Quero visualizar um gráfico de serra dentro do Python/collab, utilizando os dados:  | Alta | 3 pontos |
+| US4 | Como Cientista de dados: quero receber dados limpos e padronizados para garantir consistencia e confiabilidade nas analises, com tratamento de valores nulos, remoção de duplicidades e padronização das informações. | Alta | 5 pontos |
+| US5 | Como Analista de dados: Quero visualizar um protótipo básico do dashboard final através do canva para avaliar a estrutura e funcionalidades iniciais do sistema. | Alta  | 4 pontos |
 ---
 
 ##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | protótipo do dashboard                        | Concluído|
+| 02     | telas 1 (questões financeiras) tela 2 ( questões operacionais)    | a iniciar  |
 
 ---
 
