@@ -39,12 +39,19 @@ Este projeto tem como objetivo principal vctransformar um grande volume de dados
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
+| 1    | Alta       |    Como Analista de dados: Quero acessar a base de dados da CPTM e obter uma análise de todos os                                                 | 5          | 1      |
+| 2    | Alta       |    Como Analista de dados: Quero visualizar os registros da CPTM tratados no Python/Google collab para enteder sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências.                                                                 | 8          | 1      |
+| 3    | Alta       |  Como Analista de dados: Quero visualizar os registros da CPTM tratados no Python/Google collab para enteder sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências.                                             | 5          | 1      |                                       
+| 4 | média| Como Analista de dados: Quero visualizar os registros da CPTM tratados no Python/Google collab para enteder sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências. | 2 | 1 | 
+|   5| Baixa      |  Como Analista de dados: Quero visualizar os registros da CPTM tratados no Python/Google collab para enteder sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências.    | 2          | 1     |
+|  6 | Alta | Como analista de dados: gostaria de uma pagina onde consigo visualizar todas a questoes financeiras obtidas dos dados desde do consumo dos materias, álem de um gráfico de curva abc do impacto do custo ao longo do tempo| 6 | 2 |
+| 7 | Alta | Como analista de dados: Gostaria de uma página onde consigo visualizar o controle operacional e os alertas dos materiais, incluindo filtros para maior precisão dos periodos e tipos de consumos, além de uma recomendações do que fazer com o material. | 6 | 2 |
+| 8 | Alta | Como desenvolverdor: tratarei como possiveis alterações no layout do power BI ajustes de acordo com o cliente | 5 | 2 | 
+| 9 | Média| | | |
+|10 | Alta | Como analista de dados: Quero visualizar uma página onde consigo filtrar a administração dos materiais, com dados referentes a estoque médio, consumo, valores dos estoques, giros deste estoque e seus respectivos valores especificos de cada material | 6 | 3| 
+|11 | Alta | Como analista de dados: Quero visualizar uma página com dados gerais dos materiais de forma a qual tenha um panorama de como está o estoque atual de forma geral, além disso, quero poder ver o ranking de materias que mais tem no estoque e o nivel de rotatividade | 5 | 3 | 
+| 12 | Média| Como analista de dados: Quero poder visualizar todo o dashboard e suas telas com a modelagem finalizada | 5 | 3 | 
+| 13 | Alta | Como gestor do projeto: gostaria de ter acesso da documentação e manual do sistema dashboard para que consiga observar e entender como foi o processo de todo o desenvolvimento  | 4 | 3 |
 
 
 
