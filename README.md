@@ -64,6 +64,6 @@ Este projeto tem como objetivo principal transformar um grande volume de dados d
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 02/10/2026 | fonalizado  | [MVP](https://github.com/kauaDiego138/API---4-/tree/9af51fd00c9f4440e082c1b0b6b4f157484b9126/MVP%201%20/MVP%201%20)  |
-| 02                | 30/10/2026| finalizado | [MVP](https://github.com/kauaDiego138/API---4-/blob/b1d909e239dd5bf62a1bf4ef162431ff19cdf62e/MVP%201%20/MVP%202%20readme.md)  |
+| 02                | 30/10/2026| finalizado | [MVP](https://github.com/kauaDiego138/API---4-/blob/b03ed7710ea249edcd62054c4f13823fc52d339d/MVP%201%20/MVP%202%20readme.md)  |
 | 03                |  27/11/2026| a começar  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a começar  | |
