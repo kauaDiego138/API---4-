@@ -1,16 +1,19 @@
- ## MVP - LOGITRAIL
+ # MVP - LOGITRAIL
 
-  Objetivo do MVP
- Nesse mvp terá informações da segunda sprint do trabalho de desenvolvimento do dashboard do projeto de parceria da Fatec com a organização CPTM. Que seria a criação de um sistema para administrar e ajuda na tomada de decisões da equipe da CPTM em questões como financeiro e do controle de materias. na segunda sprint sera focado na criação das duas primeiras telas do sistema e em seu desenvolvimento.
+## Objetivo do MVP
+
+- Nesse mvp terá informações da segunda sprint do trabalho de desenvolvimento do dashboard do projeto de parceria da Fatec com a organização CPTM. Que seria a criação de um sistema para administrar e ajuda na tomada de decisões da equipe da CPTM em questões como financeiro e do controle de materias. na segunda sprint sera focado na criação das duas primeiras telas do sistema e em seu desenvolvimento.
+
 ---
 
-  Descrição da Solução
- desenvolvimento e apromoramento das duas primeiras telas dos sistema focando nos dados financeiros e operacionais cedidos pelo cliente CPTM, após a primeira sprint onde obtivemos as aprovações e pedidos de mudanca dos clientes estara sendo desenvolvido as primeiras paginas do dashboard para que assim o projeto tenha forma
+ ## Descrição da Solução
+
+- Desenvolvimento e aprimoramento das duas primeiras telas dos sistema focando nos dados financeiros e operacionais cedidos pelo cliente CPTM, após a primeira sprint onde obtivemos as aprovações e pedidos de mudanças dos clientes estará sendo desenvolvido as primeiras paginas do dashboard para que assim o projeto tenha forma
 ---
 
 ##  Personas / Usuários-Alvo
-- **Analista de dados:** desenvolvimento das telas dos daschboard focando nas questões financeiras e operacionais da organização 
-- **desenvolvedor:** criação de diferentes formas de análise utilizando diferentes informações.
+- *Analista de dados:* desenvolvimento das telas dos dashboard focando nas questões financeiras e operacionais da organização 
+- *desenvolvedor:* criação de diferentes formas de análise utilizando diferentes informações.
 
 ---
 
@@ -54,5 +57,5 @@
 ---
 
 ##  Anexos / Evidências
-- vídeo do protótipo: 
+- vídeo dos códigos: https://youtu.be/cRUmUYE4nc0
 
