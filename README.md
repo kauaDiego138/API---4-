@@ -65,5 +65,5 @@ Este projeto tem como objetivo principal transformar um grande volume de dados d
 |-------------------|------------|----------|-----------|
 | 01                | 02/10/2026 | finalizado  | [MVP](https://github.com/kauaDiego138/API---4-/tree/9af51fd00c9f4440e082c1b0b6b4f157484b9126/MVP%201%20/MVP%201%20)  |
 | 02                | 31/10/2026| finalizado | [MVP](https://github.com/kauaDiego138/API---4-/blob/b03ed7710ea249edcd62054c4f13823fc52d339d/MVP%201%20/MVP%202%20readme.md)  |
-| 03                |  27/11/2026| a começar  | [MVP](https://github.com/kauaDiego138/API---4-/blob/3590b7736194e14f460b8fd8293c12693e390a20/MVP%201%20/MVP%203)  |
+| 03                |  27/11/2026| a começar  | [MVP]((https://github.com/kauaDiego138/API---4-/blob/dae8d25e46e007b56877b4b691af5fef39d85662/MVP%201%20/MVP%203%20readme.md))  |
 | Feira de Soluções | 03/12/2026 | a começar  | |
